@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-#Comentario de prueba
+
 car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
 st.header('Sprint-7 - Project')
